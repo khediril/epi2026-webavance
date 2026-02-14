@@ -1,5 +1,5 @@
 
-#  Atelier 1 : Du Langage C au Web avec le Serveur Intégré
+#  Atelier 1 : Développement Web coté en php avec le Serveur Intégré
 
 Bienvenue dans le monde du Web. Vous allez découvrir que PHP, bien que proche du C par sa syntaxe, offre une flexibilité déconcertante. Fini la compilation manuelle à chaque modification : ici, on rafraîchit la page et le serveur interprète le code instantanément.
 
@@ -43,8 +43,7 @@ php -S localhost:8000
 
 ## 4. Mise en situation
 
-Imaginez que vous deviez coder un afficheur de news en C. Vous devriez gérer les `char*`, allouer de la mémoire, et recompiler après chaque faute de frappe.
-En PHP, vous allez créer un script qui génère l'entête de votre journal dynamiquement. Le serveur "injectera" les données dans le HTML juste avant de l'envoyer au navigateur.
+En PHP, vous allez créer un un afficheur de news.
 
 ## 5. Exploration guidée (30 min)
 
