@@ -1,5 +1,5 @@
 
-#  Atelier 1 : Développement Web coté en php avec le Serveur Intégré
+#  Atelier 1 : Développement Web coté serveur en php avec le Serveur Intégré
 
 Bienvenue dans le monde du Web. Vous allez découvrir que PHP, bien que proche du C par sa syntaxe, offre une flexibilité déconcertante. Fini la compilation manuelle à chaque modification : ici, on rafraîchit la page et le serveur interprète le code instantanément.
 
