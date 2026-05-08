@@ -1,4 +1,4 @@
-#  Atelier 9 : PHP en mode API et consommation avec JS (Fetch)
+#  Atelier 6 Api : PHP en mode API et consommation avec JS (Fetch)
 
 Ici vous aller utiliser PHP comme un **Backend** (fournisseur de données) et JavaScript comme un **Frontend** (consommateur). 
 
